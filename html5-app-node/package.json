@@ -1,0 +1,24 @@
+{
+    "name": "html5-app-node",
+    "version": "1.0.0",
+    "description": "html app node",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon app.js"
+    },
+    "keywords": [
+    "node",
+    "html5",
+    "app"
+  ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.14.0",
+        "request": "^2.74.0"
+    },
+    "devDependencies": {
+        "nodemon": "^1.10.2"
+    }
+}
